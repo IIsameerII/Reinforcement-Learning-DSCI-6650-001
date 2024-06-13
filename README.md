@@ -22,5 +22,3 @@ You can install the necessary packages using `pip`:
 ```bash
 pip install numpy matplotlib jupyter
 ```
-
-gith
